@@ -1,0 +1,9 @@
+GROCERY STORE
+
+ITEM                       QUANTITY              RATE                 TOTAL PRICE
+Coppuccino                    2                   45                           90
+Ice cream                     4                   75                          300
+Tea                           5                   7                            35
+Samosa                        2                   15                           30
+
+Total = 455.00
